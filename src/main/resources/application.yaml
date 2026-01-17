@@ -1,3 +1,7 @@
 spring:
   application:
     name: weather-info-service
+
+weather-api:
+  key: cf7faa9e0f3b4893bc4145151261701
+  url: http://api.weatherapi.com/v1
